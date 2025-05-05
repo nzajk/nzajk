@@ -1,5 +1,1 @@
-hey, i'm nick
-
-swe intern @ google 
-
-cs @ mcmaster university
+hey, im nick. im currently a swe intern at google.
