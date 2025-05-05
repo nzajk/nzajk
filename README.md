@@ -1,1 +1,1 @@
-swe intern @ google \\ cs @ mcmaster university
+swe intern @ google and cs @ mcmaster university
