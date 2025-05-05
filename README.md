@@ -1,1 +1,1 @@
-hey, i am currently studying computer science @ mcmaster university.
+swe intern @ google \\ cs @ mcmaster university
