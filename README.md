@@ -1,1 +1,3 @@
-swe intern @ google and cs @ mcmaster university
+hey, i'm nick
+swe intern @ google 
+cs @ mcmaster university
